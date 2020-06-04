@@ -1,5 +1,7 @@
 # MapBox本地化部署策略
 
+[公瑾大佬的本地化部署文档](https://www.jianshu.com/p/43ce4591c621)
+
 ------
 
 
