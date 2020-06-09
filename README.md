@@ -28,4 +28,6 @@ location / {
 
 6：国内用户可以查看[gitee](https://gitee.com/xiaoFsu/MapBox)
 
+7：关于自定义雪碧图，可以查看：[自定义雪碧图](https://mp.weixin.qq.com/s/fogjkMfpoea6Wl92-FtINg)
+
 
