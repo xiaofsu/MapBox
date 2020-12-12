@@ -30,4 +30,6 @@ location / {
 
 7：关于自定义雪碧图，可以查看：[自定义雪碧图](https://mp.weixin.qq.com/s/fogjkMfpoea6Wl92-FtINg)
 
+8：效果预览：https://map.xiaofsu.com
+
 
