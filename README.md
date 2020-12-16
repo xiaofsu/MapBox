@@ -32,4 +32,5 @@ location / {
 
 8：效果预览：https://map.xiaofsu.com
 
+9：使用[mbview](https://github.com/mapbox/mbview)来读取mbtiles文件，docker版本使用：https://hub.docker.com/r/xiaofsu/mbview
 
