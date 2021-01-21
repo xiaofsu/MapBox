@@ -30,7 +30,7 @@ location / {
 
 7：关于自定义雪碧图，可以查看：[自定义雪碧图](https://mp.weixin.qq.com/s/fogjkMfpoea6Wl92-FtINg)
 
-8：效果预览：https://map.xiaofsu.com
+8：~~效果预览：https://map.xiaofsu.com~~ 谷歌服务封禁，大家可以替换成可用的源。
 
 9：使用[mbview](https://github.com/mapbox/mbview)来读取mbtiles文件，docker版本使用：https://hub.docker.com/r/xiaofsu/mbview
 
